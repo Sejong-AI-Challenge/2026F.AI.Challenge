@@ -1,7 +1,7 @@
 # 2026 세종 AI 챌린지 Fall
 
 ## 두드림 신청
-- [두드림링크](https://do.sejong.ac.kr/ko/program/all/view/4163)
+- [두드림링크](https://do.sejong.ac.kr/ko/program/all/view/4381)
 - 2026년 11월 2일(월) - 2026년 11월 16일(수)
 
 ## 안내
